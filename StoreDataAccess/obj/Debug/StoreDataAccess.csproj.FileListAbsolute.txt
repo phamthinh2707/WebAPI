@@ -1,0 +1,12 @@
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\bin\Debug\StoreDataAccess.dll.config
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\bin\Debug\StoreDataAccess.dll
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\bin\Debug\StoreDataAccess.pdb
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\obj\Debug\StoreDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\obj\Debug\StoreDataAccess.csproj.CopyComplete
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\obj\Debug\StoreDataAccess.dll
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\obj\Debug\StoreDataAccess.pdb
+C:\Users\firel\source\repos\MikrotikAPIServer\StoreDataAccess\obj\Debug\StoreDataAccess.csprojAssemblyReference.cache
